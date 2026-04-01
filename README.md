@@ -1,4 +1,4 @@
-# LangChain and LangGraph Projects
+# 🦜 LangChain and LangGraph Projects
 
 This is my central hub for experimenting with LLM Orchestration. This repository is a collection of projects, prototypes, and agents built using the LangChain ecosystem and the stateful, cyclic power of LangGraph.
 
@@ -8,8 +8,9 @@ This repo serves as a playground for building everything from simple RAG (Retrie
 
 - LangGraph: Used for building complex, stateful workflows with loops, cycles, and conditional logic.
 
-## Project Directory
+## 📂 Project Directory
 
 - LangChain-Rag: A standard RAG system to load documents and use them as external source of knowledge.
+- LangGraph-Reflection-Agent: A reflection-style agent architecture built with LangGraph that improves output quality through self-critique and refinement.
 
 Built with ❤️ and a lot of tokens.

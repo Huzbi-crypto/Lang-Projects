@@ -1,4 +1,4 @@
-# RAG with LangChain
+# 📖 RAG with LangChain
 
 A Retrieval Augmented Generation (RAG) system using LangChain, OpenAI, and Pinecone.
 
